@@ -20,3 +20,6 @@ nnoremap <Leader><space> :noh<cr>
 
 " Loads packages found in pack/plugins/start
 packloadall
+
+" fzf
+set rtp+=/opt/homebrew/opt/fzf

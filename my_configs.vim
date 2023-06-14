@@ -17,3 +17,6 @@ let g:jedi#use_tabs_not_buffers = 1
 
 " Removes highlighted search text
 nnoremap <Leader><space> :noh<cr>
+
+" Loads packages found in pack/plugins/start
+packloadall
